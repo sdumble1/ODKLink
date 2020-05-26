@@ -13,3 +13,6 @@ Requires numeric ID for project. In ona you can see this from the URL of the pro
 available_data(paste(username,password,sep=":"),api = servername)
 
 The idea is that this will be modified for users needs rather than taken as is - but can easily build from this skeleton to add plots/customised outputs tied to the specific project.
+
+Example of this running here using the dummy form uploaded within this repo:
+https://shiny.stats4sd.org/ODKLink/
